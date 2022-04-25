@@ -1,4 +1,4 @@
-# starkathon
+# The Hitchhiker's Guide to the StarkNet
 
 A repository for Starkathon (StarkNet Hackathon) at Devconnect 2022.
 
