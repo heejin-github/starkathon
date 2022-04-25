@@ -1,6 +1,7 @@
 # Newbie guide to setup Cairo environment
 
-This document is shortcut guide for starknet beginner used m1(mac).
+This document is shortcut guide for starknet beginner using M1 Mac.
+
 
 ## Why we write this guide
 
@@ -100,5 +101,8 @@ Running tracer on http://localhost:8100/
 ```
 
 Now open browser and visit `http://localhost:8100` to use tracer.
+
+You can find tracer looks like below.
+![tracer](https://raw.githubusercontent.com/heejin-github/starkathon/main/tracer.png)
 
 Congratulation! Now you have a working Cario environment.
