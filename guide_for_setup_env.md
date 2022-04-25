@@ -105,4 +105,6 @@ Now open browser and visit `http://localhost:8100` to use tracer.
 You can find tracer looks like below.
 ![tracer](https://raw.githubusercontent.com/heejin-github/starkathon/main/tracer.png)
 
-Congratulation! Now you have a working Cario environment.
+## Congratulation!
+
+Now you have a working Cario environment.
